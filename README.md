@@ -1,3 +1,2 @@
-# angular-ystfdl
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ystfdl)
+# angular-firebase crud webapp
+Aplicacion CRUD angular con backend firebase
